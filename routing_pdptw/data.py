@@ -5,7 +5,7 @@ PDPTW 数据生成器。
 
 import numpy as np
 from config import (NUM_ORDERS, NUM_NODES, DEPOT, MAP_WIDTH, MAP_HEIGHT,
-                    CAPACITY, MAX_ROUTE_DURATION, K_NEAREST)
+                    CAPACITY, MAX_ROUTE_DURATION)
 
 
 class PDPTWData:
